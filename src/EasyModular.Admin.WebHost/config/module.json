@@ -1,0 +1,9 @@
+﻿[
+  {
+    "Id": "EasyModular.Admin",
+    "Name": "权限管理",
+    "Icon": "permission",
+    "Version": "1.0.0",
+    "Description": "EasyModular 权限管理"
+  }
+]

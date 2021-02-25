@@ -1,0 +1,8 @@
+[
+  {
+    "ModuleId": "EasyModular.Admin",
+    "DbType": 0, //0:MySql,1:SqlServer,2:Sqlite,3:Oracle,4:PostgreSQL
+    "ConnectionString": "server=rm-wz9zb24886c7uh95wbo.mysql.rds.aliyuncs.com;user id=cwh; password=cwh@82813788; database=EM_Admin;",
+    "IsPintLog": true
+  }
+]
